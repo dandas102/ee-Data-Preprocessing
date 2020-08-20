@@ -14,10 +14,10 @@ This is part of agricultural parcel delineation project partly implemented in Go
 ![alt text](https://github.com/dandas102/ee-Data-Preprocessing/blob/master/outputs/ee-chart-NDVI.png?raw=true)
 
 2. Annual ARVI Profiles
-
+![alt text](https://github.com/dandas102/ee-Data-Preprocessing/blob/master/outputs/ee-chart-ARVI.png?raw=true)
 
 3. Annual VV/VH log Ratio Profiles
-
+![alt text](https://github.com/dandas102/ee-Data-Preprocessing/blob/master/outputs/ee-chart-logR.png?raw=true)
 
 # Entending and re-use in your projects
 This is governed under GNU Puplic licence, once adopted/adapted to you project, you should credit the developer as:
