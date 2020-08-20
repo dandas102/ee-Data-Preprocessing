@@ -3,11 +3,12 @@ An earth-engine javascript code for pre-processing Sentinel-1C (SAR) and Sentine
 
 This is part of agricultural parcel delineation project partly implemented in Google Earth Engine computing environment. The Google Earth Engine implementation can be found at: https://code.earthengine.google.com/?accept_repo=users/dandas/AgricParcels or git clone: https://earthengine.googlesource.com/users/dandas/AgricParcels
 
-# STEPS:
+# Steps:
 1. Run pre-process-datasets.js preferably in a Google Earth Engine environment using link: 
 2. Run export2drive.py in your python Earthengine environment inorder to export pre-processed imagery to your Google drive
   a) Setup you Earth Engine python API environment. For guidance, see: https://developers.google.com/earth-engine/guides/python_install
   b) Install the geemap PyPI package. Steps to follow: https://pypi.org/project/geemap/
+  
 # Samples
 1. Annual NDVI Profiles
 
