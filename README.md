@@ -11,7 +11,7 @@ This is part of agricultural parcel delineation project partly implemented in Go
   
 # Samples
 1. Annual NDVI Profiles
-![alt text](https://github.com/dandas102/ee-Data-Preprocessing/blob/outputs/ee-chart-NDVI.jpg?raw=true)
+![alt text](https://github.com/dandas102/ee-Data-Preprocessing/blob/master/outputs/ee-chart-NDVI.png?raw=true)
 
 2. Annual ARVI Profiles
 
