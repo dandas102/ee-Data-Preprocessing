@@ -1,3 +1,5 @@
+//Google Earth Engine Repository (filename: StudyData): code.earthengine.google.com/?accept_repo=users/gorelick/examples
+
 //Link to source datasets
 var sentinel1SAR = ee.ImageCollection("COPERNICUS/S1_GRD"),
     sentinel2AB = ee.ImageCollection("COPERNICUS/S2_SR"),
