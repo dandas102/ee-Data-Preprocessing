@@ -22,3 +22,5 @@ This is part of agricultural parcel delineation project partly implemented in Go
 # Entending and re-use in your projects
 This is governed under GNU Puplic licence, once adopted/adapted to you project, you should credit the developer as:
 Abudu, D. and Leloglu, U.M(2020). An Earth Engine Tool for Pre-Processing Sentinel-1C (SAR) and Sentinel-2A/B satellite imagery. Available [Online]: https://code.earthengine.google.com/?accept_repo=users/dandas/AgricParcels
+[![DOI](https://github.com/dandas102/ee-Data-Preprocessing/tree/master.svg)]([https://data.caltech.edu/badge/latestdoi/110025475](https://github.com/dandas102/ee-Data-Preprocessing/tree/master)https://github.com/dandas102/ee-Data-Preprocessing/tree/master)
+
